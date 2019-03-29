@@ -8,7 +8,7 @@ You've seen HTML tags and tag attributes. In this lab, you'll bring those togeth
 You will be able to:
 * Code an `a`nchor tag that defines an HTML hyperlink
 
-## Use a `a` Tag to Create a Link
+## Use an `a` Tag to Create a Link
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
 text between the `<a>` tag and the `</a>` tag) of
