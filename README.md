@@ -2,11 +2,11 @@
 # HTML Links - Lab
 
 ## Introduction
-You've seen HTML tags and tag attributes. In this lab, you'll bring those together by investigating the `a` tag. 
+You've seen HTML tags and tag attributes. In this lab, you'll bring those together by investigating the anchor tag, `a`. 
 
 ## Objectives
 You will be able to:
-* Code an `a`nchor tag that defines an HTML hyperlink
+* Use an anchor tag to create a link
 
 ## Use an `a` Tag to Create a Link
 
@@ -31,4 +31,3 @@ As a reminder, here's how to do that via learn:
 ## Summary
 
 Here you saw how an attribute helps the `a` tag do its job, which is to link to another location.
-
