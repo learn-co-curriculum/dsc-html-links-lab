@@ -5,7 +5,8 @@
 You've seen HTML tags and tag attributes. In this lab, you'll bring those together by investigating the anchor tag, `a`. 
 
 ## Objectives
-You will be able to:
+You will be able to:  
+
 * Use an anchor tag to create a link
 
 ## Use an `a` Tag to Create a Link
@@ -25,7 +26,7 @@ As a reminder, here's how to do that via learn:
 ## Addtional Resources
 
 * [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-* [Learn IDE Help]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
+* [Learn IDE Help](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide)
 
 
 ## Summary
